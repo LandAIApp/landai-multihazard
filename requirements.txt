@@ -1,0 +1,3 @@
+# Convenience entry point: installs backend runtime + test dependencies.
+# (The previous geopandas/pandas/numpy/shapely entries were not used by any module.)
+-r backend/requirements-dev.txt
